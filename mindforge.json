@@ -1,10 +1,10 @@
 {
   "name": "Mindforge",
   "symbol": "MFG",
-  "description": "Mindforge is a DePIN token rewarding validators, ESP32 probes, and GPU compute in the Mindforge network.",
+  "description": "Mindforge — DePIN compute & proof-of-presence rewards.",
   "image": "https://raw.githubusercontent.com/yesyel420-stack/mindforge-assets-1/main/mindforge-assets.png",
-  "attributes": [],
   "extensions": {
-    "website": "https://mindsforge.org"
-  }
+    "website": "https://mindforge.org"
+  },
+  "tags": ["DePIN", "ESP32", "GPU", "AI", "Proof-of-Presence"]
 }
